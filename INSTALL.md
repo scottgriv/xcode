@@ -37,3 +37,13 @@ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 1. Open _Xcode > Preferences > Themes_
 2. Select Dracula Theme
+
+**For Xcode 27+**
+
+1. In the menu bar: `Xcode -> Settings -> Appearance -> Theme`;
+2. Next to `Theme`, click **Choose**
+3. Click **Import** on the bottom
+4. Find and select the `Dracula.xccolortheme` or `Alucard.xccolortheme` files
+5. Keep *Colors* and *Fonts* toggled **ON**
+6. Click **Import**
+7. Enjoy!
